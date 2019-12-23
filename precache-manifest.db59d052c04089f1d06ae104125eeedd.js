@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1daaed6aaaacbb4b9d84758aa1bfd1c6",
+    "revision": "e8807f24e4d111126f0fb77d5befe0b1",
     "url": "/ASSROUGUI.github.io/randomRestaurant/index.html"
   },
   {
-    "revision": "c283af9f5e4cc093fba2",
+    "revision": "84cb1ae0bee6e71f1f8e",
     "url": "/ASSROUGUI.github.io/randomRestaurant/static/css/2.af1f2204.chunk.css"
   },
   {
-    "revision": "a065a46fd6afba083c1d",
-    "url": "/ASSROUGUI.github.io/randomRestaurant/static/css/main.43a91f04.chunk.css"
+    "revision": "18716dba4ffcf94b6378",
+    "url": "/ASSROUGUI.github.io/randomRestaurant/static/css/main.fb2630e7.chunk.css"
   },
   {
-    "revision": "c283af9f5e4cc093fba2",
-    "url": "/ASSROUGUI.github.io/randomRestaurant/static/js/2.f955d878.chunk.js"
+    "revision": "84cb1ae0bee6e71f1f8e",
+    "url": "/ASSROUGUI.github.io/randomRestaurant/static/js/2.b833a3b8.chunk.js"
   },
   {
     "revision": "5290d1800941ffd1afe8841579a2a302",
-    "url": "/ASSROUGUI.github.io/randomRestaurant/static/js/2.f955d878.chunk.js.LICENSE"
+    "url": "/ASSROUGUI.github.io/randomRestaurant/static/js/2.b833a3b8.chunk.js.LICENSE"
   },
   {
-    "revision": "a065a46fd6afba083c1d",
-    "url": "/ASSROUGUI.github.io/randomRestaurant/static/js/main.9d875771.chunk.js"
+    "revision": "18716dba4ffcf94b6378",
+    "url": "/ASSROUGUI.github.io/randomRestaurant/static/js/main.98e15e90.chunk.js"
   },
   {
     "revision": "3df903bb5ce29b307a02",
