@@ -25,7 +25,7 @@ class App extends Component {
 
    
 <div className="b"> 
-
+<Search />
 
 {/* <H /> */}
 
