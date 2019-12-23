@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ASSROUGUI.github.io/randomRestaurant/precache-manifest.db59d052c04089f1d06ae104125eeedd.js"
+  "/ASSROUGUI.github.io/randomRestaurant/precache-manifest.c6818dfb74273037965188b718fa1587.js"
 );
 
 self.addEventListener('message', (event) => {
