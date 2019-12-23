@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ASSROUGUI.github.io/randomRestaurant/src/components/HomePage/precache-manifest.d8e8af07567c62298fb08b0ebec9de40.js"
+  "/ASSROUGUI.github.io/randomRestaurant/precache-manifest.75e233cb695c4ce7163b7e92af88772f.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/ASSROUGUI.github.io/randomRestaurant/src/components/HomePage/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/ASSROUGUI.github.io/randomRestaurant/index.html"), {
   
   blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
 });

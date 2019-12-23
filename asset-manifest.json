@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ASSROUGUI.github.io/randomRestaurant/src/components/HomePage/static/css/main.43a91f04.chunk.css",
-    "main.js": "/ASSROUGUI.github.io/randomRestaurant/src/components/HomePage/static/js/main.d95c8414.chunk.js",
-    "main.js.map": "/ASSROUGUI.github.io/randomRestaurant/src/components/HomePage/static/js/main.d95c8414.chunk.js.map",
-    "runtime-main.js": "/ASSROUGUI.github.io/randomRestaurant/src/components/HomePage/static/js/runtime-main.a3363e57.js",
-    "runtime-main.js.map": "/ASSROUGUI.github.io/randomRestaurant/src/components/HomePage/static/js/runtime-main.a3363e57.js.map",
-    "static/css/2.0155fdf3.chunk.css": "/ASSROUGUI.github.io/randomRestaurant/src/components/HomePage/static/css/2.0155fdf3.chunk.css",
-    "static/js/2.f955d878.chunk.js": "/ASSROUGUI.github.io/randomRestaurant/src/components/HomePage/static/js/2.f955d878.chunk.js",
-    "static/js/2.f955d878.chunk.js.map": "/ASSROUGUI.github.io/randomRestaurant/src/components/HomePage/static/js/2.f955d878.chunk.js.map",
-    "index.html": "/ASSROUGUI.github.io/randomRestaurant/src/components/HomePage/index.html",
-    "precache-manifest.d8e8af07567c62298fb08b0ebec9de40.js": "/ASSROUGUI.github.io/randomRestaurant/src/components/HomePage/precache-manifest.d8e8af07567c62298fb08b0ebec9de40.js",
-    "service-worker.js": "/ASSROUGUI.github.io/randomRestaurant/src/components/HomePage/service-worker.js",
-    "static/css/2.0155fdf3.chunk.css.map": "/ASSROUGUI.github.io/randomRestaurant/src/components/HomePage/static/css/2.0155fdf3.chunk.css.map",
-    "static/css/main.43a91f04.chunk.css.map": "/ASSROUGUI.github.io/randomRestaurant/src/components/HomePage/static/css/main.43a91f04.chunk.css.map",
-    "static/js/2.f955d878.chunk.js.LICENSE": "/ASSROUGUI.github.io/randomRestaurant/src/components/HomePage/static/js/2.f955d878.chunk.js.LICENSE",
-    "static/media/font-awesome.min.css": "/ASSROUGUI.github.io/randomRestaurant/src/components/HomePage/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/ASSROUGUI.github.io/randomRestaurant/static/css/main.43a91f04.chunk.css",
+    "main.js": "/ASSROUGUI.github.io/randomRestaurant/static/js/main.9d875771.chunk.js",
+    "main.js.map": "/ASSROUGUI.github.io/randomRestaurant/static/js/main.9d875771.chunk.js.map",
+    "runtime-main.js": "/ASSROUGUI.github.io/randomRestaurant/static/js/runtime-main.12b3514c.js",
+    "runtime-main.js.map": "/ASSROUGUI.github.io/randomRestaurant/static/js/runtime-main.12b3514c.js.map",
+    "static/css/2.af1f2204.chunk.css": "/ASSROUGUI.github.io/randomRestaurant/static/css/2.af1f2204.chunk.css",
+    "static/js/2.f955d878.chunk.js": "/ASSROUGUI.github.io/randomRestaurant/static/js/2.f955d878.chunk.js",
+    "static/js/2.f955d878.chunk.js.map": "/ASSROUGUI.github.io/randomRestaurant/static/js/2.f955d878.chunk.js.map",
+    "index.html": "/ASSROUGUI.github.io/randomRestaurant/index.html",
+    "precache-manifest.75e233cb695c4ce7163b7e92af88772f.js": "/ASSROUGUI.github.io/randomRestaurant/precache-manifest.75e233cb695c4ce7163b7e92af88772f.js",
+    "service-worker.js": "/ASSROUGUI.github.io/randomRestaurant/service-worker.js",
+    "static/css/2.af1f2204.chunk.css.map": "/ASSROUGUI.github.io/randomRestaurant/static/css/2.af1f2204.chunk.css.map",
+    "static/css/main.43a91f04.chunk.css.map": "/ASSROUGUI.github.io/randomRestaurant/static/css/main.43a91f04.chunk.css.map",
+    "static/js/2.f955d878.chunk.js.LICENSE": "/ASSROUGUI.github.io/randomRestaurant/static/js/2.f955d878.chunk.js.LICENSE",
+    "static/media/font-awesome.min.css": "/ASSROUGUI.github.io/randomRestaurant/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.a3363e57.js",
-    "static/css/2.0155fdf3.chunk.css",
+    "static/js/runtime-main.12b3514c.js",
+    "static/css/2.af1f2204.chunk.css",
     "static/js/2.f955d878.chunk.js",
     "static/css/main.43a91f04.chunk.css",
-    "static/js/main.d95c8414.chunk.js"
+    "static/js/main.9d875771.chunk.js"
   ]
 }
